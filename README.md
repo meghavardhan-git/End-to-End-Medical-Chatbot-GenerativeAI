@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
@@ -125,4 +125,4 @@ open up localhost:
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
-   -GOOGLE_API_KEY
+   - GOOGLE_API_KEY
